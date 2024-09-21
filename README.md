@@ -22,3 +22,5 @@ This repository is composed by the following scripts:
 5) emails.py - notify supplier with the uploaded content
 6) main.py - will run all the above scripts in the correct order
 7) health_check.py - monitors some system statistics and will notify users if something is wrong
+
+Futhermore, the folders "descriptions" and "images" are the data provided by the supplier. 
